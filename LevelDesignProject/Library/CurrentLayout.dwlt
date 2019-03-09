@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 124
+  controlID: 108
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 498}
   m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 30
+  controlID: 107
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,7 +191,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 101
+  controlID: 127
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -355,9 +355,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 6e390000
-      m_LastClickedID: 14702
-      m_ExpandedIDs: c0e9fffff0e9ffff28f3ffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: ccfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -454,20 +454,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/HoudiniEngineAssetCache/Working
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/HoudiniEngineAssetCache/Working
+  - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\10668747\Documents\LevelDesign\LevelDesignProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a6390000
-    m_LastClickedID: 14758
-    m_ExpandedIDs: 000000001c310000903400009e390000a6390000ac39000000ca9a3b
+    m_SelectedIDs: 08280000
+    m_LastClickedID: 10248
+    m_ExpandedIDs: 000000000828000072280000242b00002e2b0000bc2b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -495,7 +495,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001c31000090340000
+    m_ExpandedIDs: 000000000828000072280000242b00002e2b0000bc2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -522,7 +522,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -662,9 +662,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 12.780227, y: 11.668589, z: 5.628112}
+    m_Target: {x: 0.17543395, y: 2.3434598, z: -0.25542077}
     speed: 2
-    m_Value: {x: 12.780227, y: 11.668589, z: 5.628112}
+    m_Value: {x: 0.17543395, y: 2.3434598, z: -0.25542077}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -692,13 +692,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.07292294, y: 0.7886538, z: -0.09532789, w: 0.60302585}
+    m_Target: {x: 0.024741625, y: 0.57791555, z: -0.017501064, w: 0.8155341}
     speed: 2
-    m_Value: {x: 0.07292221, y: 0.7886459, z: -0.09532694, w: 0.60301983}
+    m_Value: {x: 0.024741616, y: 0.5779154, z: -0.017501058, w: 0.8155338}
   m_Size:
-    m_Target: 50.498314
+    m_Target: 5.364235
     speed: 2
-    m_Value: 50.498314
+    m_Value: 5.364235
   m_Ortho:
     m_Target: 0
     speed: 2
